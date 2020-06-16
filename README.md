@@ -3,6 +3,7 @@ With the opening of Operation Iraqi Freedom (OIF) in 2003 and the
 subsequent debate in the United States about the coalition of the willing,
 a group of historians at the Naval Historical Center (now the Naval History
 and Heritage Command) ![Branching](e6b57737a995f016d0326df48be85845.png)
+
 joined the discussion by reflecting on the nature
 of effective coalitions. As head of the Contemporary History Branch during
 the opening phases of OIF, I asked the historians to consider recent coalitions
@@ -16,7 +17,7 @@ We soon realized that historical analysis, approaching problems as it
 does from the humanities perspective, could address these questions in an
 informative, unique, and stimulating way. Thus the growing public debate
 presented us with an unexpected opportunity to apply history directly
-to immediate naval needs in an age defined, in part, by 11 September 2001.
+to immediate naval needs in an age defined, in part, by 11 September 2001
 In the end, the subject matter, the ongoing public debate, and the
 opportunity to apply historical methodology proved too compelling to
 remain as an informal discussion of combined operations.
