@@ -16,8 +16,8 @@ We soon realized that historical analysis, approaching problems as it
 does from the humanities perspective, could address these questions in an
 informative, unique, and stimulating way. Thus the growing public debate
 presented us with an unexpected opportunity to apply history directly
-to immediate naval needs in an age defined, in part, by 11 September
-2001. In the end, the subject matter, the ongoing public debate, and the
+to immediate naval needs in an age defined, in part, by 11 September 2001.
+In the end, the subject matter, the ongoing public debate, and the
 opportunity to apply historical methodology proved too compelling to
 remain as an informal discussion of combined operations.
 Although initially conceived as an American project, it seemed
